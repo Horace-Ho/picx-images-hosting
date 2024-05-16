@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #040000;
+        stroke-width: .6px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #323333;
+      }
+
+      .cls-3 {
+        fill: #323333;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="120.41" y="80" width="179.59" height="179.59" rx="5.71" ry="5.71"/>
+  <rect class="cls-2" x="150.84" y="201.15" width="120.69" height="32.48" rx="4.21" ry="4.21"/>
+  <rect class="cls-3" x="189.23" y="201.15" width="5.85" height="32.48"/>
+  <rect class="cls-3" x="189.23" y="155.49" width="5.85" height="32.48"/>
+  <rect class="cls-3" x="189.23" y="112.91" width="5.85" height="32.48"/>
+  <circle class="cls-3" cx="172.32" cy="217.39" r="4.21"/>
+  <rect class="cls-2" x="150.84" y="157.03" width="120.69" height="32.48" rx="4.21" ry="4.21"/>
+  <path class="cls-3" d="M168.11,173.27c0-2.33,1.89-4.21,4.21-4.21s4.21,1.89,4.21,4.21c0,2.33-1.89,4.21-4.21,4.21h0c-2.32,0-4.21-1.88-4.21-4.2h0Z"/>
+  <rect class="cls-2" x="150.84" y="112.91" width="120.69" height="32.48" rx="4.21" ry="4.21"/>
+  <path class="cls-3" d="M168.11,129.15c0-2.33,1.89-4.21,4.21-4.21s4.21,1.89,4.21,4.21-1.89,4.21-4.21,4.21c-2.32,0-4.2-1.87-4.21-4.19v-.02Z"/>
+</svg>

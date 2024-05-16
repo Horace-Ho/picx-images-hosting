@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #323333;
+      }
+
+      .cls-2 {
+        stroke: #040000;
+        stroke-width: .6px;
+      }
+
+      .cls-4 {
+        fill: #323333;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="120.41" y="80" width="179.59" height="179.59" rx="5.71" ry="5.71"/>
+  <rect class="cls-4" x="148.22" y="234.44" width="125.58" height="8.59"/>
+  <path class="cls-3" d="M275.95,99.77s-69.93-3.44-64.94,56.79l18.89,12.88s8.5-49.15,54.55-38.84"/>
+  <path class="cls-3" d="M201.13,196.35s27.84,5.16,28.77-26.91l-18.89-12.88s-28.2,13.74-9.88,39.79Z"/>
+  <polygon class="cls-3" points="178.84 194.03 190.83 219.25 160.48 211.52 175.08 207.51 178.84 194.03"/>
+  <path class="cls-1" d="M143.31,181.46s21.21,15.63,31.77,26.05"/>
+  <polygon class="cls-3" points="238.44 196.85 220.79 218.49 252.1 218.22 238.87 210.84 238.44 196.85"/>
+  <path class="cls-1" d="M275.95,193.13s-24.32,10.12-37.07,17.72"/>
+</svg>

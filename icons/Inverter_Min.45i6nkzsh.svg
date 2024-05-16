@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #040000;
+        stroke-width: .6px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #323333;
+        stroke-linecap: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="120.41" y="80" width="179.59" height="179.59" rx="5.71" ry="5.71"/>
+  <path class="cls-2" d="M229.55,161.5c21.47,19.47,42.94,38.93,64.41,58.4-.07-19.04-.14-38.07-.21-57.11-14.38-11.02-28.77-22.04-43.15-33.06-7.01,10.59-14.03,21.18-21.04,31.78Z"/>
+  <rect class="cls-2" x="129.75" y="115.35" width="32.2" height="13.31"/>
+  <polygon class="cls-2" points="225.76 143.69 177.56 130.32 178.42 116.96 233.81 132.09 225.76 143.69"/>
+  <rect class="cls-2" x="250.93" y="157.92" width=".06" height="75.55" transform="translate(564.32 140.23) rotate(132.01)"/>
+</svg>

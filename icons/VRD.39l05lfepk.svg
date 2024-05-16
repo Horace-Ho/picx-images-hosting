@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 62.57px;
+      }
+
+      .cls-2 {
+        stroke: #040000;
+        stroke-width: .6px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: #323333;
+        stroke-linecap: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        fill: #a52a2b;
+        font-family: 'AlibabaPuHuiTi_2_85_Bold', 'AlibabaPuHuiTi 2 85 Bold';
+        font-variation-settings: ';
+      }
+
+      .cls-5 {
+        font-size: 21px;
+      }
+
+      .cls-6 {
+        font-size: 18px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="119.68" y="80.31" width="180.32" height="180.32" rx="5.71" ry="5.71"/>
+  <rect class="cls-3" x="141" y="126" width="137" height="1"/>
+  <rect class="cls-3" x="141" y="219" width="137" height="1"/>
+  <text class="cls-4" transform="translate(145.4 201.07)"><tspan class="cls-1" x="0" y="0">V</tspan><tspan class="cls-6" x="38.73" y="0"> </tspan><tspan class="cls-1" x="42.76" y="0">R</tspan><tspan class="cls-5" x="79.99" y="0"> </tspan><tspan class="cls-1" x="84.69" y="0">D</tspan></text>
+</svg>

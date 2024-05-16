@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a52a2b;
+        font-family: 'AlibabaPuHuiTi_2_85_Bold', 'AlibabaPuHuiTi 2 85 Bold';
+        font-size: 79.9px;
+        font-variation-settings: ';
+      }
+
+      .cls-2 {
+        stroke: #040000;
+        stroke-width: .6px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: #323333;
+        stroke-linecap: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="120.54" y="79.53" width="179.46" height="180.44" rx="5.71" ry="5.71"/>
+  <text class="cls-1" transform="translate(128.96 156.72) scale(.95 1)"><tspan x="0" y="0">2T</tspan></text>
+  <text class="cls-1" transform="translate(202.61 241.39) scale(.95 1)"><tspan x="0" y="0">4T</tspan></text>
+  <line class="cls-3" x1="149.47" y1="233.29" x2="271.06" y2="111.04"/>
+</svg>

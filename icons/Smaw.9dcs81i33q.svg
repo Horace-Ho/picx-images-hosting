@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #323333;
+      }
+
+      .cls-2 {
+        stroke: #040000;
+        stroke-width: .6px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="119.83" y="80.41" width="180.17" height="180.17" rx="5.71" ry="5.71"/>
+  <line class="cls-3" x1="162.69" y1="104.36" x2="257.76" y2="104.36"/>
+  <polyline class="cls-3" points="195.72 89.71 195.72 136.24 204.77 136.24 204.77 163.38"/>
+  <polyline class="cls-3" points="225.48 89.71 225.48 136.24 216.44 136.24 216.44 163.38"/>
+  <rect class="cls-3" x="173.6" y="161.01" width="73.24" height="30.59"/>
+  <path class="cls-1" d="M202.36,191.49s.68,13.78,0,18.31c-1.69,11.16-6.05,22.88-30.16,27.71-10.7,2.15-20.79,0-20.79,0"/>
+  <path class="cls-1" d="M214.71,191.49s-.24,13.74,0,18.31c.68,13.01-.11,25.24-32.27,41.03"/>
+</svg>

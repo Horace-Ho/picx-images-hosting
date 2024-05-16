@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a52a2b;
+        font-size: 80.88px;
+        letter-spacing: .04em;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: 'AlibabaPuHuiTi_2_85_Bold', 'AlibabaPuHuiTi 2 85 Bold';
+        font-variation-settings: ';
+      }
+
+      .cls-3 {
+        stroke: #040000;
+        stroke-width: .6px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 35px;
+        letter-spacing: -.05em;
+      }
+
+      .cls-4 {
+        stroke: #231815;
+        stroke-linecap: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(186.16 155.71)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-2" transform="translate(160.4 232.27)"><tspan x="0" y="0">PHASE</tspan></text>
+  <path class="cls-4" d="M132.64,180.35s30.67-30.61,77.23,0c16.98,11.16,32.88,31.93,77.61,0"/>
+  <rect class="cls-3" x="120.11" y="80.36" width="179.89" height="179.89" rx="5.71" ry="5.71"/>
+</svg>

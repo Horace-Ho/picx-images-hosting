@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #040000;
+        stroke-miterlimit: 10;
+        stroke-width: .6px;
+      }
+
+      .cls-2 {
+        fill: #a52a2b;
+        font-family: 'AlibabaPuHuiTi_2_85_Bold', 'AlibabaPuHuiTi 2 85 Bold';
+        font-size: 62.57px;
+        font-variation-settings: ';
+      }
+
+      .cls-3 {
+        fill: #323333;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(166.4 203.07)"><tspan x="0" y="0">AD</tspan></text>
+  <rect class="cls-1" x="119.63" y="80.16" width="180.37" height="180.37" rx="5.71" ry="5.71"/>
+  <path class="cls-3" d="M269.95,226.59h-118.29c-5.78,0-10.44-4.66-10.44-10.44v-69.58c0-5.78,4.66-10.44,10.44-10.44h118.29c5.78,0,10.44,4.66,10.44,10.44v69.58c0,5.78-4.66,10.44-10.44,10.44ZM151.66,143.09c-1.95,0-3.48,1.53-3.48,3.48v69.58c0,1.95,1.53,3.48,3.48,3.48h118.29c1.95,0,3.48-1.53,3.48-3.48v-69.58c0-1.95-1.53-3.48-3.48-3.48h-118.29Z"/>
+  <path class="cls-3" d="M193.41,143.09h-20.88v-28.53c0-1.95,1.53-3.48,3.48-3.48s3.48,1.53,3.48,3.48v21.57h6.96v-21.57c0-1.95,1.53-3.48,3.48-3.48s3.48,1.53,3.48,3.48v28.53Z"/>
+  <path class="cls-3" d="M249.08,143.09h-20.88v-28.53c0-1.95,1.53-3.48,3.48-3.48s3.48,1.53,3.48,3.48v21.57h6.96v-21.57c0-1.95,1.53-3.48,3.48-3.48s3.48,1.53,3.48,3.48v28.53h0Z"/>
+</svg>
